@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: localhost
+  baseUrl: viktorsokol1999z-creator.github.io/armenia-guide
   ignorePatterns:
     - private
     - templates
